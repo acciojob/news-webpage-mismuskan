@@ -19,11 +19,15 @@
 	border-radius:2px;
 text-align:center;
 	align-items:center;
+	padding:10px;
+	
 }
 .pictorial-news-section{
 	height:300px;
 	width:200px;
 	border-radius:2px;
+	text-align:center;
+	padding:10px;
 }
 div>img{
 	height:100px;
@@ -35,4 +39,6 @@ div>img{
 	border-radius:2px;
 	text-align:center;
 	align-items:center;
+	padding:10px;
+	
 }
