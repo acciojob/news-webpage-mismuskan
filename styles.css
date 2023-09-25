@@ -1,7 +1,10 @@
 /*  your css code here. If applicable */
-div>h3{
+.header{
 	background-color:#011e29;
-	align-items:center;
+	text-align:center;
 	justify-content:center;
-	
+	height:40px;
+	color:white;
+	padding:1px;
+/* 	bottom-padding:1px; */
 }
